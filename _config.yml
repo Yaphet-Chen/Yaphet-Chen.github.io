@@ -4,3 +4,4 @@ description: [A short description of your site's purpose]
 logo: /assets/img/cat.jpg
 show_downloads: false
 google_analytics: UA-120749243-1
+exclude: ["README.md","License.md"]
