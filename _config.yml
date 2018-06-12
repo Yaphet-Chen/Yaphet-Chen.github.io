@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Yaphet's Homepage
 description: [A short description of your site's purpose]
-logo: [Location of the logo]
+logo: /assets/img/profile.png
 show_downloads: "false"
 google_analytics: UA-120749243-1
