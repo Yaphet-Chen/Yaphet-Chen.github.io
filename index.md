@@ -13,4 +13,4 @@ not yet
 ## Teaching
 * Spring 2017-18: Calculus II (MATH 1024), instructor: Prof. Jishan hu
 
-[Link to a markdown guide page](./pages/MarkdownTutorial.md.md).
+[Link to a markdown guide page](./pages/MarkdownGuide.md).
